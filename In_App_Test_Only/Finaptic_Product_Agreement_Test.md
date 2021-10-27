@@ -1,8 +1,4 @@
-# <u>THIS IS A TEST DOCUMENT</u>
-
-
-
-# Finaptic Account Fee Guide and Agreement
+# Finaptic Account Fee Guide and Agreement.md
 
 ## Finaptic Account Fee Guide
 

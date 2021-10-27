@@ -1,8 +1,4 @@
-# <u>THIS IS A TEST DOCUMENT</u>
-
- 
-
-# Finaptic electronic communications agreement
+# Finaptic Electronic Communications Agreement.md
 
 Finaptic Electronic Communications Agreement Consent to Sign and Receive Documents Electronically
 

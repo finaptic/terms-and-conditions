@@ -1,8 +1,4 @@
-# <u>THIS IS A TEST DOCUMENT</u>
-
-  
-
-# Finaptic Privacy Policy
+# Finaptic Privacy Policy.md
 
 Last updated: August 27, 2021
 

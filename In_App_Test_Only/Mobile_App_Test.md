@@ -1,8 +1,4 @@
-# <u>THIS IS A TEST DOCUMENT</u>
-
-
-
-# Finaptic App Terms of Use
+# Finaptic App Terms of Use.md
 
 These Terms of Use ("Terms") for the Finaptic mobile application (the “App”) were last updated on August 27, 2021.
 
