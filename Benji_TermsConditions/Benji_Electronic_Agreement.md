@@ -1,6 +1,6 @@
 # Benji Electronic Communications Agreement
 
-**Last updated: December 2, 2021**
+**Last updated: December 6, 2021**
 
 ##### Benji Electronic Communications Agreement Consent to Sign and Receive Documents Electronically
 
@@ -16,21 +16,21 @@ You understand and agree that your E-Signature is legally binding and has the sa
 
 ##### Consent to electronic delivery of documents
 
-You consent to receive the Documents in electronic form only. You also consent to receive Information, which includes Documents, in electronic form only. You designate your email service provider as your designated information system for this purpose until the Benji App has the technical capability to present Documents and Information to you. Information includes monthly or periodic account statements, disclosures, notices, confirmations, certificates, tax documents, terms and conditions, prospectuses or other offering documents, account opening applications, agreements and amendments applicable to your accounts, or other information we may be required or permitted to send to you now or in the future under legislation for your accounts.
+You consent to receive the Documents in electronic form only. You also consent to receive Information, which includes Documents, in electronic form only. You designate your email service provider as your designated information system for this purpose until Benji Financial has the technical capability to present Documents and Information to you. Information includes monthly or periodic account statements, disclosures, notices, confirmations, certificates, tax documents, terms and conditions, prospectuses or other offering documents, account opening applications, agreements and amendments applicable to your accounts, or other information we may be required or permitted to send to you now or in the future under legislation for your accounts.
 
 ##### How Electronic Documents Will Be Delivered to You
 
-When new Information in electronic form is available for you to access, we will email it to you at the email address you have provided to us. When the technical capability is available, we will send a message to the message centre in the Benji App. We may also send you an email or text alert (but only if you have provided us with your email address and mobile telephone number) to notify you regarding Information.
+When new Information in electronic form is available for you to access, we will email it to you at the email address you have provided to us. When the technical capability is available, we will send a message to the message centre in Benji Financial. We may also send you an email or text alert (but only if you have provided us with your email address and mobile telephone number) to notify you regarding Information.
 
-Please note that email communication is not secure or reliable and email notifications may not be received by you in a timely manner or at all. We will not be responsible to you for any damages or costs resulting from your failure to receive an email notification. You may opt-out of email notifications by changing your email preferences in the Benji App.
+Please note that email communication is not secure or reliable and email notifications may not be received by you in a timely manner or at all. We will not be responsible to you for any damages or costs resulting from your failure to receive an email notification. You may opt-out of email notifications by changing your email preferences in Benji Financial.
 
 ##### Technical Requirements
 
-Your device must have the minimum software requirement to operate the Benji App, as updated from time to time. Information may be presented as PDF files and may require you to have Adobe Reader or other third-party software installed on your Device. We do not own or operate, and are not responsible for, Adobe Reader or any other third-party software.
+Your device must have the minimum software requirement to operate Benji Financial, as updated from time to time. Information may be presented as PDF files and may require you to have Adobe Reader or other third-party software installed on your Device. We do not own or operate, and are not responsible for, Adobe Reader or any other third-party software.
 
 ##### Document Delivery
 
-Your Information is deemed to be delivered to you on the day we send it and not on the day that you actually access it through your email service provider and through the Benji App. Your Responsibility to Access Electronic Documents By consenting to electronic delivery of documents, you understand that you must check your email mailbox and access the Benji App to access your Information and agree to do so on a regular basis but in any event, not less than once every thirty (30) days. Receiving an email or text notification does not change your obligation to access your Documents in the Benji App. We will not be responsible to you for any damages or costs resulting from your failure to access your Information.
+Your Information is deemed to be delivered to you on the day we send it and not on the day that you actually access it through your email service provider and through Benji Financial. Your Responsibility to Access Electronic Documents By consenting to electronic delivery of documents, you understand that you must check your email mailbox and access Benji Financial to access your Information and agree to do so on a regular basis but in any event, not less than once every thirty (30) days. Receiving an email or text notification does not change your obligation to access your Documents in Benji Financial. We will not be responsible to you for any damages or costs resulting from your failure to access your Information.
 
 ##### Contact Information
 

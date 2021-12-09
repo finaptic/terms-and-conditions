@@ -1,18 +1,18 @@
-# Benji Account Fee Guide and Agreement
+# Benji Business Operating Account Fee Guide and Agreement
 
-**Last updated: December 2, 2021**
+**Last updated: December 6, 2021**
 
-### Benji Account Fee Guide
+### Benji Business Operating Account Fee Guide
 
 Issuing institution: NATSOLUTION, 600, de la Gauchetière Ouest, Montréal, province of Québec.
 
-##### Information about your Benji Account
+##### Information about your Benji Business Operating Account
 
 For information or to make complaints, you may use the Benji in-app chat when made available, or contact support@betterwithbenji.com to report a bug or issue.
 
 ###### Balance Verification
 
-The balance of the Benji Account may be verified by accessing the Benji App. You can also contact our customer service as indicated in the line above: Information about your Benji Account.
+The balance of the Benji Business Operating Account may be verified by accessing the Benji App. You can also contact our customer service as indicated in the line above: Information about your Benji Business Operating Account.
 
 ###### Overdraft
 
@@ -50,33 +50,33 @@ Your card has an expiry date which is shown on your card. We will replace your p
 
 You must inform us promptly if your card is lost or stolen.
 
-You can contact customer services as indicated on the line Information about your Benji Account above.
+You can contact customer services as indicated on the line Information about your Benji Business Operating Account above.
 
 You can temporarily block the use of your card via the mobile application.
 
 ###### Cancellation
 
-You can cancel the card connected to your Benji Account at any time by contacting us through the methods listed in the line Information about your Benji Account above. The cancellation of your card does not automatically close your Benji Account. You must also request to close your account.
+You can cancel the card connected to your Benji Business Operating Account at any time by contacting us through the methods listed in the line Information about your Benji Business Operating Account above. The cancellation of your card does not automatically close your Benji Business Operating Account. You must also request to close your account.
 
 ###### Uninsured deposit
 
-Money on your Benji Account is not insured by the Canada Deposit Insurance Corporation.
+Money on your Benji Business Operating Account is not insured by the Canada Deposit Insurance Corporation.
 
-### Benji Account Agreement
+### Benji Business Operating Account Agreement
 
-This Agreement sets out the conditions that apply to your Benji Account and any card or other device or technology issued that allows access to the Account at any time. The fee guide is an integral part of this Agreement. Other agreements may also apply to services provided with your Account(s).
+This Agreement sets out the conditions that apply to your Benji Business Operating Account and any card or other device or technology issued that allows access to the Account at any time. The fee guide is an integral part of this Agreement. Other agreements may also apply to services provided with your Account(s).
 
 If there is a conflict between the terms of this Agreement and any other agreements, the most current version of this document will apply.
 
-Not all features described in this Agreement may be available when you open a Benji Account.
+Not all features described in this Agreement may be available when you open a Benji Business Operating Account.
 
-The Benji Account and associated card is issued by NATSOLUTION and distributed by Benji Technologies Inc.
+The Benji Business Operating Account and associated card is issued by NATSOLUTION and distributed by Benji Technologies Inc.
 
-### How to use your Benji Account
+### How to use your Benji Business Operating Account
 
-The Benji Account is only accessible electronically, meaning you must have a compatible device that allows you to download the Benji App and access your Account.
+The Benji Business Operating Account is only accessible electronically, meaning you must have a compatible device that allows you to download the Benji App and access your Account.
 
-The Benji Account allows you to:
+The Benji Business Operating Account allows you to:
 
 - make a purchase everywhere Mastercard® is accepted;
 
@@ -148,7 +148,7 @@ You are responsible to check your account payment history to know the status of 
 
 ##### f. Stop a payment
 
-You can request to stop a payment to prevent a pre-authorized debit. You must contact customer services as indicated on the line Information about your Benji Account above within a reasonable amount of time before the payment. You must inform us of the date of the payment, its amount, the account number and the payee’s name. If any of this information is inaccurate, the stop payment will not be carried out. We are not responsible for any inconvenience you may experience in such an event. Despite a stop payment order, a pre-authorized debit can be presented again for a future payment date. You are responsible for contacting the person to whom you gave authorization to cancel any future pre-authorized debits. We will not follow up with that person on your behalf.
+You can request to stop a payment to prevent a pre-authorized debit. You must contact customer services as indicated on the line Information about your Benji Business Operating Account above within a reasonable amount of time before the payment. You must inform us of the date of the payment, its amount, the account number and the payee’s name. If any of this information is inaccurate, the stop payment will not be carried out. We are not responsible for any inconvenience you may experience in such an event. Despite a stop payment order, a pre-authorized debit can be presented again for a future payment date. You are responsible for contacting the person to whom you gave authorization to cancel any future pre-authorized debits. We will not follow up with that person on your behalf.
 
 ### What conditions are applicable to the authorized user
 
@@ -198,11 +198,11 @@ At your discretion, you may :
 
 In particular, you are responsible for:
 
-- all your Benji Account transactions;
+- all your Benji Business Operating Account transactions;
 
 - verifying your account transaction history regularly and notifying customer service of any error, discrepancy or possible fraudulent transaction within 30 days of the transaction. The transaction will be considered final and accurate following this period;
 
-- maintaining the security of your Benji Account and card, and Benji app;
+- maintaining the security of your Benji Business Operating Account and card, and Benji app;
 
 - having a device that is able to receive wireless text messaging services and access the Internet;
 
@@ -270,7 +270,7 @@ You are in default if:
 
 - You do not meet your obligations set out in this agreement;
 
-- You use your Benji Account, card or the mobile application in an unusual, fraudulent, illegal or abusive manner.
+- You use your Benji Business Operating Account, card or the mobile application in an unusual, fraudulent, illegal or abusive manner.
 
 If you are in default under this agreement, we may exercise, in the order we choose, one or several of the following rights:
 
@@ -320,7 +320,7 @@ You will be deemed to have agreed to the amendments if you use the card or accou
 
 ### Relationship with the merchant
 
-Any dispute with a merchant must be settled directly with the merchant. A refund of a transaction made with your Benji Account is subject to the merchant's refund policy.
+Any dispute with a merchant must be settled directly with the merchant. A refund of a transaction made with your Benji Business Operating Account is subject to the merchant's refund policy.
 
 Refunds to your linked account may take up to 3 days from the date that your refund is processed for your new balance to appear on your Account.
 
@@ -328,11 +328,11 @@ Debits and credits for transactions may not appear on your Account the same day 
 
 You may sometimes ask for the cancellation of certain transactions if the merchant has not respected his obligations.
 
-For more information, please contact customer service as indicated on the line Information about your Benji Account.
+For more information, please contact customer service as indicated on the line Information about your Benji Business Operating Account.
 
 ### General rules applicable to this agreement
 
-###### Ownership of the card associated with your Benji Account
+###### Ownership of the card associated with your Benji Business Operating Account
 
 The card remains our property at all times. You cannot transfer the card. You must return or destroy your physical card if we ask you to.
 

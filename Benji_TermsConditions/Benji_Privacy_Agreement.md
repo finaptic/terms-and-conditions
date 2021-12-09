@@ -1,6 +1,6 @@
 # Benji Privacy Policy
 
-**Last updated: December 2, 2021**
+**Last updated: December 6, 2021**
 
 ##### Please read this Privacy Policy before you give your consent.
 
@@ -8,15 +8,15 @@ Benji Technologies Inc. (“Benji”) takes privacy seriously and is committed t
 
 The Privacy Policy below describes how we collect and use personal information, and the circumstances under which we may share this information. 
 
-This Privacy Policy applies to the privacy practices of Benji on its website, located at http://www.betterwithbenji.com (the “Benji Website”), to the Benji Tax offering on the Website (“Benji Tax”), and to Benji-branded applications, including the Benji mobile application (the “Benji App”, and together with Benji Tax and the Website, the “Platform”).
+This Privacy Policy applies to the privacy practices of Benji on its website, located at http://www.betterwithbenji.com (the “Benji Site”), to the Benji Tax offering on the Website (“Benji Tax”), and to the Benji business operating account (“Benji Financial”, and together with Benji Tax and the Website, the “Platform”).
 
 ##### Collection and Use of Information
 
-We collect and use information differently depending on what parts of our Platform you use. We have described the purposes for collection and use of information according to the Platform generally, and more specifically for the Benji App, Benji Tax, and the Website below.
+We collect and use information differently depending on what parts of our Platform you use. We have described the purposes for collection and use of information according to the Platform generally, and more specifically for Benji Financial, Benji Tax, and the Website below.
 
 ##### The Platform
 
-When you use any of the Benji App, Benji Tax, or the Website, we may collect and use information as follows: 
+When you use any of Benji Financial, Benji Tax, or the Website, we may collect and use information as follows: 
 
 - **Social Media**: We may offer you the opportunity to engage with Benji or its content on or through third-party social media websites, plug-ins and applications. When you engage with us on or through third-party social media websites, plug-ins and applications, you may allow us to have access to certain information associated with your social media account (e.g. name, username, email address, profile picture) to deliver content or as part of the operation of the website, plug-in or application.
 
@@ -26,19 +26,19 @@ When you use any of the Benji App, Benji Tax, or the Website, we may collect and
 
 - **Contact Us**: When you contact us with a comment or question, we collect the information you provide such as your email address, along with additional information that we may need to help us promptly respond to your inquiry. We retain this information to assist you in the future and to improve our customer service and service offerings. We also use personal information to establish and manage our relationship with you and provide quality service.
 
-##### Benji App
+##### Benji Financial
 
-When you use the Benji App, we may collect and use information as follows: 
+When you use Benji Financial, we may collect and use information as follows: 
 
-- **Account Registration**: When you register for an account, we collect information including your name, home address, birth date, telephone number, email address, business set up, business name, business address, business telephone number, occupation, industry of operations, source of funds, intended account use, tax disclaimers, and third-party declaration to open a business operating account, and to allow us to satisfy Know Your Client and anti-money laundering obligations under applicable laws. You also provide us with your name, email address, and a password that you select which we use to create and administer your account and use of the Benji App. 
+- **Account Registration**: When you register for an account, we collect information including your name, home address, birth date, telephone number, email address, business set up, business name, business address, business telephone number, occupation, industry of operations, source of funds, intended account use, tax disclaimers, and third-party declaration to open a business operating account, and to allow us to satisfy Know Your Client and anti-money laundering obligations under applicable laws. You also provide us with your name, email address, and a password that you select which we use to create and administer your account and use of Benji Financial. 
 
-- **Using Benji**: When you register for a business operating account using the Benji App, you are registering for an account exclusively for use in connection with your self-employed work. We maintain information about your work business operating account including transactional history (merchant name, time of purchase, location of purchase) and account balances to enable the business operating account service of the Benji App.
+- **Using Benji**: When you register for a business operating account using Benji Financial, you are registering for an account exclusively for use in connection with your self-employed work. We maintain information about your work business operating account including transactional history (merchant name, time of purchase, location of purchase) and account balances to enable the business operating account service of Benji Financial.
 
 - **Push Notifications**: If you provide your consent to receive push notifications, we may display push notifications on your mobile device such as welcome messages, product features and promotional offers. If you wish to stop receiving push notifications from us, you can turn off push notifications for the App in the settings of your mobile device.
 
-- **App Usage Information & Analytics**: As with many applications, certain limited data is required for the Benji App to function on your device. This data includes the type of device hardware and operating system, unique device identiﬁer, IP address, language settings, and the date and time the Benji App accesses our servers. We use this information to help us understand the activity on the Benji App, to monitor and improve the Benji App, and to tailor your in-Benji-App experience. In addition, we may use third party service providers to collect analytical information about your use of the Benji App, such as the Benji App features used and time spent on the Benji App, to help us tailor your in-app experience, improve our products and the quality of our Benji App, and to manage and analyze data in order to better understand our users.
+- **App Usage Information & Analytics**: As with many applications, certain limited data is required for Benji Financial to function on your device. This data includes the type of device hardware and operating system, unique device identiﬁer, IP address, language settings, and the date and time Benji Financial accesses our servers. We use this information to help us understand the activity on Benji Financial, to monitor and improve Benji Financial, and to tailor your in-Benji-App experience. In addition, we may use third party service providers to collect analytical information about your use of Benji Financial, such as Benji Financial features used and time spent on Benji Financial, to help us tailor your in-app experience, improve our products and the quality of our Benji Financial, and to manage and analyze data in order to better understand our users.
 
-- **Additional Information**: We will use commercially reasonable efforts, given the limitations imposed upon us by third party providers such as Apple Inc. and Google Inc., to clearly disclose what, if any information is collected by the Benji App, how it is used, and with whom it is shared. Please note, certain practices are outside of our control, for example, tracking by Apple, Inc., Google, Inc., or your third-party telecommunications carrier. We are not responsible for the actions of such third parties. You should always read and understand the policies of any third-party provider, such as Apple with respect to iOS apps and Google with respect to Android apps, and your wireless carrier, before making any purchase or downloading any app.
+- **Additional Information**: We will use commercially reasonable efforts, given the limitations imposed upon us by third party providers such as Apple Inc. and Google Inc., to clearly disclose what, if any information is collected by Benji Financial, how it is used, and with whom it is shared. Please note, certain practices are outside of our control, for example, tracking by Apple, Inc., Google, Inc., or your third-party telecommunications carrier. We are not responsible for the actions of such third parties. You should always read and understand the policies of any third-party provider, such as Apple with respect to iOS apps and Google with respect to Android apps, and your wireless carrier, before making any purchase or downloading any app.
 
 ##### Benji Tax
 
@@ -54,9 +54,9 @@ When you use the Benji Tax, we may collect and use information as follows:
 
 - **Processing Payments**: If you purchase an annual plan, your credit card information is provided to our payment processing provider, Stripe. Read more about Stripe’s privacy practices for consumers https://stripe.com/en-ca/privacy . When you pay through Stripe, Benji does not collect or store your credit card credentials except for the last four digits of your credit card number, the credit card type, and the expiration date. We use this information to prevent fraud.
 
-##### Benji Website
+##### Benji Site
 
-When you use the Benji Website, we may collect and use information as follows: 
+When you use the Benji Site, we may collect and use information as follows: 
 
 - **Job Applications**: To apply for work opportunities, you may choose to provide us with personal information by uploading or sending documents (such as résumés, cover letters and introductions). We use this information to assess your qualifications for current and future relevant work opportunities.
 
