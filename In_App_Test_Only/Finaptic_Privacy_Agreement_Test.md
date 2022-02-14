@@ -1,6 +1,6 @@
 # Finaptic Privacy Policy.md
 
-Last updated: August 27, 2021
+Last updated: February 14, 2022
 
 ### Please read this Privacy Policy before you give your consent.
 
@@ -10,7 +10,7 @@ This Privacy Policy describes how Finaptic Technologies Inc. collects, uses, sha
 
 It also tells you about your privacy rights and responsibilities.
 
-If you have questions, you can contact our Privacy Officer by email at privacy@finaptic.com or by mail at: Privacy Officer, 611 Belmont Ave Westmount, QC, H3Y 2W1
+If you have questions, you can contact our Privacy Officer by email at privacy@finaptic.com or by mail at: Privacy Officer, 600 rue de la Gauchetière ouest, 12e, Montréal, QC H3B 4L2.
 
 ### Personal Information You Give to Us
 
@@ -84,7 +84,7 @@ We may update this policy from time to time. Any changes will come into effect o
 
 ### Questions, Comments or Complaints
 
-If you have any questions, comments or complaints about how we handle your personal information, please contact our Privacy Officer at privacy@finaptic.com or by mail at: 611 Belmont Ave Westmount, QC, H3Y 2W1
+If you have any questions, comments or complaints about how we handle your personal information, please contact our Privacy Officer at privacy@finaptic.com or by mail at: 600 rue de la Gauchetière ouest, 12e, Montréal, QC H3B 4L2.
 
 If you have a complaint, you also have the option of contacting the federal privacy commissioner and provincial privacy commissioner of your province.
 

@@ -1,10 +1,10 @@
-# Finaptic Account Fee Guide and Agreement.md
+# Account Fee Guide and Agreement.md
 
-## Finaptic Account Fee Guide
+## Finaptic Account Fee Guide - <u>DepositV1 BundleID</u>
 
-Last Updated February 16, 2022
+Last Updated February 14, 2022
 
-Issuing institution: NATSOLUTION, 600 rue de la Gauchetière ouest, 12e, Montréal, QC H3B 4L2.
+Issuing institution: NATSOLUTION, 600 rue de la Gauchetière ouest, 12e, Montréal, QC H3B 4L2
 
 ### Information about your Finaptic Account
 
@@ -12,21 +12,21 @@ For information or to make complaints, you may:
 
 Use the Finaptic in app chat when made available, or use the tools to report a bug or issue.
 
-Contact: pilot.feedback@finaptic.com
+Contact: [pilot.feedback@finaptic.com](mailto:pilot.feedback@finaptic.com)
 
 Call: 416-460-3360 (Collect)
 
 Write: Finaptic Technologies Inc., 600 rue de la Gauchetière ouest, 12e, Montréal, QC H3B 4L2.
 
-**Balance verification:** The balance of the Finaptic Account may be verified by accessing the Finaptic Pilot app. You can also contact our customer service as indicated in the line above: Information about your Finaptic Account.
+**Balance verification:** The balance of the Finaptic Account may be verified by accessing the Finaptic Pilot app. You can also contact our customer service as indicated in the line above: Information about your Finaptic Account.
 
-**Overdraft:** No overdraft is permitted.
+**Overdraft:** No overdraft is permitted.
 
-**Currency:** Canadian Dollar
+**Currency:** Canadian Dollar
 
-**Fees:** There is no monthly fee for using this account.
+**Fees:** There is no monthly fee for using this account.
 
-Transactions in a foreign currency are converted into Canadian dollars at the conversion rate used by Mastercard Worldwide® on the date the transaction is authorized. 
+Transactions in a foreign currency are converted into Canadian dollars at the conversion rate used by Mastercard Worldwide® on the date the transaction is authorized.
 
 We do not charge any other fees.
 
@@ -34,21 +34,29 @@ Fees may be charged to your bank account by your financial institution for trans
 
 Fees may also be charged for use of an ATM by the ATM provider.
 
-**Interest:** There is no interest paid on account balances.
 
-**Partial payment of purchase:** Your account must have enough money to cover the entire cost of a transaction. If it does not, the merchant may accept a partial payment transaction. You must then cover the difference with another form of payment such as a credit card or cash.
 
-**Expiry date:** Your card has an expiry date which is shown on your card. We will replace your physical card when it expires. Your virtual card will be automatically renewed.
+### NOTE
 
-**Lost or stolen card:** You must inform us promptly if your card is lost or stolen.
+**"Card Terms & Conditions" will apply when a Card has been issued & associated with the account.**
+
+
+
+**Interest:** There is no interest paid on account balances.
+
+**Partial payment of purchase:** Your account must have enough money to cover the entire cost of a transaction. If it does not, the merchant may accept a partial payment transaction. You must then cover the difference with another form of payment such as a credit card or cash.
+
+**Expiry date:** Your card has an expiry date which is shown on your card. We will replace your physical card when it expires. Your virtual card will be automatically renewed.
+
+**Lost or stolen card:** You must inform us promptly if your card is lost or stolen.
 
 You can contact customer services as indicated on the line Information about your Finaptic Pilot above.
 
 You can temporarily block the use of your card via the mobile application.
 
-**Cancellation:** You can cancel the card connected to your Finaptic Pilot Account at any time by contacting us through the methods listed in the line Information about your Finaptic Account above. The cancellation of your card does not automatically close your Finaptic Pilot Account. You must also request to close your account.
+**Cancellation:** You can cancel the card connected to your Finaptic Pilot Account at any time by contacting us through the methods listed in the line Information about your Finaptic Account above. The cancellation of your card does not automatically close your Finaptic Pilot Account. You must also request to close your account.
 
-**Uninsured deposit:** Money on your Finaptic Account is not insured by the Canada Deposit Insurance Corporation.
+**Uninsured deposit:** Money on your Finaptic Account is not insured by the Canada Deposit Insurance Corporation.
 
 ## Finaptic Account Agreement
 
@@ -79,15 +87,15 @@ Money in your account does not earn interest. You must load money to your accoun
 
 You can access your Account and carry out transactions through the Finaptic App. NATSOLUTION does not provide the services on the Finaptic mobile application and is not responsible for them, or any loss, harm or damage of any kind you may suffer as a result of using the Finaptic App and associated services.
 
-**b. Card access**
+**b. Card access (where a card has been issued)**
 
 You may access your Account through a card we issue to you to make payments from your account everywhere Mastercard is accepted. Cards on this Account will operate on the Mastercard network. This means, when making purchases, you should select “Credit” at the point of sale to complete the transaction.
 
-*Request a Card* - We may not automatically send you a card to access your account. If you don’t automatically receive one, you can request a physical or virtual card for yourself or an authorized user at any time. Instructions on how to do this are provided on the mobile app.
+*Request a Card* - We may not automatically send you a card to access your account. If you don’t automatically receive one, you can request a physical or virtual card for yourself or an authorized user at any time. Instructions on how to do this are provided on the mobile app.
 
-*Expiry date of the card* - Your card has an expiry date. The expiry date is indicated on your card. We will replace your physical card when it expires. Your virtual card will be automatically renewed. We may not replace your card. For example, we will not replace it if you haven’t used it for an extended period of time. You cannot make transactions with an expired card.
+*Expiry date of the card* - Your card has an expiry date. The expiry date is indicated on your card. We will replace your physical card when it expires. Your virtual card will be automatically renewed. We may not replace your card. For example, we will not replace it if you haven’t used it for an extended period of time. You cannot make transactions with an expired card.
 
-*Accessing Accounts* - Each card may be used to access more than one account. This means that the same card can be linked to your accounts as well as accounts for which you are an authorized user.
+*Accessing Accounts* - Each card may be used to access more than one account. This means that the same card can be linked to your accounts as well as accounts for which you are an authorized user.
 
 *Cards are subject to daily and weekly transaction limits.*
 
@@ -182,7 +190,7 @@ In particular, you are responsible for:
 
 You are not responsible for unauthorized transactions made in store, over the phone, online, on a mobile device and transactions at an ATM when:
 
-- you have used reasonable care in protecting the card from loss or theft; and
+- you have used reasonable care in protecting the card (where a card has been issued) from loss or theft; and
 - you promptly reported the loss, theft or possible unauthorized use on the card.
 
 However, you may be held liable for all losses and damages incurred in the case of gross fault on your part:
@@ -312,13 +320,13 @@ We are committed to resolving customer complaints fairly and in a timely manner.
 
 Please follow these steps if you have a complaint.
 
-**Step One:** Contact us through the Finaptic in-app message centre or send us an email at pilot.feedback@finaptic.com
+**Step One:** Contact us through the Finaptic in-app message centre or send us an email at [pilot.feedback@finaptic.com](mailto:pilot.feedback@finaptic.com)
 
 You may also call us at 416-460-3360 (Collect).
 
 If your concern is not resolved to your satisfaction, you may escalate your complaint in Step Two.
 
-**Step Two:** If Finaptic has not resolved your complaint to your satisfaction, you may then contact the
+**Step Two:** If Finaptic has not resolved your complaint to your satisfaction, you may then contact the
 
 Ombudsman for Banking Services and Investments (OBSI). The OBSI is an independent external body that may review your complaint after you have received a final response in Step One.
 
@@ -328,7 +336,7 @@ Ombudsman for Banking Services and Investments (OBSI). The OBSI is an independen
 
 P.O. Box 8, Toronto, ON M5H 3R3
 
-www.obsi.ca
+[www.obsi.ca](http://www.obsi.ca)
 
 Consumer complaints may also be made to the Financial Consumer Agency of Canada (FCAC). The FCAC will determine whether the financial institution is in compliance with federal consumer protection regulations. It does not resolve individual consumer complaints.
 
@@ -338,9 +346,9 @@ Consumer complaints may also be made to the Financial Consumer Agency of Canada 
 
 Ottawa, Ontario K1R 1B9
 
-Website: www.fcac-acfc.gc.ca
+Website: [www.fcac-acfc.gc.ca](http://www.fcac-acfc.gc.ca)
 
-E-mail: info@fcac-acfc.gc.ca
+E-mail: [info@fcac-acfc.gc.ca](mailto:info@fcac-acfc.gc.ca)
 
 Telephone:
 
@@ -374,7 +382,7 @@ Ottawa, Ontario K1A 0G9
 
 Telephone: 1-800-303-1282
 
-Website: http://www.bankofcanada.ca/unclaimed-balances/ Email: info@bankofcanada.ca
+Website: [Unclaimed Balances - Bank of Canada](http://www.bankofcanada.ca/unclaimed-balances/) Email: [info@bankofcanada.ca](mailto:info@bankofcanada.ca)
 
 **b. Deposit insurance**
 
@@ -388,9 +396,9 @@ Ottawa, Ontario K1P 6L2
 
 Telephone: 1-800-461-7232
 
-Website: www.cdic.ca
+Website: [www.cdic.ca](http://www.cdic.ca)
 
-Email: info@cdic.ca
+Email: [info@cdic.ca](mailto:info@cdic.ca)
 
 NATSOLUTION is authorized to receive deposits under the Deposit Insurance Act (Quebec). Your deposits will be protected under this law if they meet certain requirements. For more information, contact us or:
 
@@ -406,4 +414,4 @@ Telephone: 1-877-525-0337 Website: lautorite.qc.ca
 
 ® NATSOLUTION is a registered trademark of NatCan Trust Company.
 
-® *Interac* e-Transfer is a trademark of Interac Inc., used under licence by NatCan Trust Company.
+® *Interac* e-Transfer is a trademark of Interac Inc., used under licence by NatCan Trust Company.

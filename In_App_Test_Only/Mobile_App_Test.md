@@ -1,8 +1,10 @@
 # Finaptic App Terms of Use.md
 
-These Terms of Use ("Terms") for the Finaptic mobile application (the “App”) were last updated on August 27, 2021.
+These Terms of Use ("Terms") for the Finaptic mobile application (the “App”) were last updated on **February 14, 2022**.
 
-1.(a) Read, Agree, and Keep a Copy of the Terms.
+
+
+**1.(a) Read, Agree, and Keep a Copy of the Terms**
 
 You must read and agree to these Terms, which are a legally binding contract between you and us, before you can use the App and access the Services.
 
@@ -10,7 +12,7 @@ Finaptic Technologies Inc. (referred to in the Terms as “Finaptic, “us”, �
 
 In order to use the Services, you must be at least 18 years of age or older and the age of majority where you live, unless you have been invited to sign up for the Services by an adult . If you are the age of majority, you also accept these terms on behalf of any child(ren) you invite to use the App. If any child(ren) you invite to use the App add their card to a third-party mobile wallet, you accept on their behalf the “Notice for Customers Enrolling in a Third-Party Mobile Payment System” (a copy of which is posted at ).
 
-(b) On-Screen Terms.
+**(b) On-Screen Terms**
 
 Terms shown on-screen form part of these Terms.
 
@@ -130,4 +132,4 @@ You authorize us to send push notifications to your Device in relation to the Se
 
 1. Voluntary Participation. Your use of a Device to access certain of the Services through the App is voluntary. If you choose to use your Device to access the Services by installing the App, you warrant that you are the legal owner of your Device. You also warrant that you have legal ownership of the Devices used by children you have invited to use the App.
 
-Contact Us with any Questions or Complaints at pilot.feedback@finaptic.com or by mail at: 611 Belmont Ave Westmount, QC, H3Y 2W1.
+Contact Us with any Questions or Complaints at pilot.feedback@finaptic.com or by mail at: 600 rue de la Gauchetière ouest, 12e, Montréal, QC H3B 4L2.
